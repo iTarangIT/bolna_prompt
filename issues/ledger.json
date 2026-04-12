@@ -1,0 +1,1962 @@
+{
+  "meta": {
+    "version": 1,
+    "agent": "vikram",
+    "created_at": "2026-04-12T17:59:49.527370+00:00",
+    "last_updated": "2026-04-12T19:27:34.716550+00:00",
+    "prompt_hash": "5dc03a8d304ff6271656e983a62e679bdbf3a32d445c3dc21e79a682e614ad45"
+  },
+  "processed_transcripts": {
+    "8/4/2026, 2:09:56 pm": {
+      "lead_id": "DL-1775584700761-a4edf908",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "8/4/2026, 2:13:42 pm": {
+      "lead_id": "DL-1775584691940-30da78b7",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "8/4/2026, 2:28:04 pm": {
+      "lead_id": "DL-1775584662469-4a36ae77",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "8/4/2026, 2:29:03 pm": {
+      "lead_id": "DL-1775584660427-61e1176d",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "8/4/2026, 2:30:32 pm": {
+      "lead_id": "DL-1775584659970-fadd0f79",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "8/4/2026, 2:32:58 pm": {
+      "lead_id": "DL-1775584658578-28e431b5",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "8/4/2026, 2:34:55 pm": {
+      "lead_id": "DL-1775584657641-bd2bd6e7",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "8/4/2026, 2:36:17 pm": {
+      "lead_id": "DL-1775584655946-ff4d216f",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "8/4/2026, 3:03:36 pm": {
+      "lead_id": "DL-1775584681119-ceeda6b8",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "8/4/2026, 3:03:37 pm": {
+      "lead_id": "DL-1775584700761-a4edf908",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "8/4/2026, 4:00:28 pm": {
+      "lead_id": "DL-1775584694862-498ab861",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "8/4/2026, 4:00:41 pm": {
+      "lead_id": "DL-1775584661338-c26a51da",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "8/4/2026, 4:01:34 pm": {
+      "lead_id": "DL-1775584655946-ff4d216f",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "9/4/2026, 12:58:36 pm": {
+      "lead_id": "DL-1775584661338-c26a51da",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "9/4/2026, 12:59:59 pm": {
+      "lead_id": "DL-1775584694862-498ab861",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "9/4/2026, 1:21:40 pm": {
+      "lead_id": "DL-1775584658578-28e431b5",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "9/4/2026, 1:22:41 pm": {
+      "lead_id": "DL-1775584659970-fadd0f79",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "9/4/2026, 1:25:24 pm": {
+      "lead_id": "DL-1775584663644-03102cbc",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "9/4/2026, 1:29:48 pm": {
+      "lead_id": "DL-1775584691940-30da78b7",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "9/4/2026, 1:33:03 pm": {
+      "lead_id": "DL-1775584690120-ef5eb073",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "9/4/2026, 2:06:20 pm": {
+      "lead_id": "DL-1775584661808-91ca570c",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "9/4/2026, 2:06:28 pm": {
+      "lead_id": "DL-1775584660880-28a98aa0",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "9/4/2026, 2:39:22 pm": {
+      "lead_id": "DL-1775584662469-4a36ae77",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "9/4/2026, 2:39:25 pm": {
+      "lead_id": "DL-1775584655946-ff4d216f",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "9/4/2026, 3:01:29 pm": {
+      "lead_id": "DL-1775584694862-498ab861",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "9/4/2026, 5:02:43 pm": {
+      "lead_id": "DL-1775584694862-498ab861",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "9/4/2026, 7:03:38 pm": {
+      "lead_id": "DL-1775584694862-498ab861",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1749 14112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0022 15112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0910 15112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1836 15112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1849 15112025": {
+      "lead_id": "1",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1850 15112025": {
+      "lead_id": "1",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1905 15112025": {
+      "lead_id": "1",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1906 15112025": {
+      "lead_id": "1",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1908 15112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1909 15112025": {
+      "lead_id": "1",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1911 15112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1923 15112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1927 15112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1928 15112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2219 15112025": {
+      "lead_id": "1",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2228 18112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1442 19112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1716 19112025": {
+      "lead_id": "1",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1727 19112025": {
+      "lead_id": "1",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1755 19112025": {
+      "lead_id": "1",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1134 20112025": {
+      "lead_id": "1",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1535 20112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0738 21112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0740 21112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0645 22112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0637 22112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0704 22112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0706 22112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0725 22112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0730 22112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0933 28112025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2122 28112025": {
+      "lead_id": "1",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0929 02122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1604 02122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0806 03122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0809 03122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0813 03122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0940 03122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0757 04122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0759 04122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0800 04122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0803 04122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1724 04122025": {
+      "lead_id": "2",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1730 04122025": {
+      "lead_id": "2",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1744 04122025": {
+      "lead_id": "2",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0738 05122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0739 05122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0744 05122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0755 05122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0756 05122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0758 05122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0008 06122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0035 06122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0100 06122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0104 06122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0111 06122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0214 06122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0222 06122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0233 06122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0237 06122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0239 06122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0242 06122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1611 06122025": {
+      "lead_id": "3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1644 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1651 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1652 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1658 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1713 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1716 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1802 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1804 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1826 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1830 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1836 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1838 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1846 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1849 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1911 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1919 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1930 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1934 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1938 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1939 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1946 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1948 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2000 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2013 06122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1930 07122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1943 07122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2007 07122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2013 07122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2019 07122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2118 07122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2122 07122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2204 07122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2221 07122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2231 07122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2234 07122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2242 07122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2249 07122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2252 07122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0622 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0701 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0704 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0706 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0708 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0710 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0715 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0717 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0721 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0727 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0732 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0741 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0841 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0849 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1351 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1409 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1411 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1412 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1413 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1415 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1442 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1824 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1832 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1835 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1905 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1938 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1941 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2006 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2022 11122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1809 12122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1326 13122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1358 13122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1411 13122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1417 13122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1446 13122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1501 13122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1623 13122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1640 13122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1903 13122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1400 14122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1620 14122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1622 14122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1625 14122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1628 14122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1632 14122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1634 14122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1636 14122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1651 14122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1717 14122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1723 14122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1735 14122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1744 14122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1836 14122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0738 15122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0757 15122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0807 15122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0927 15122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0938 15122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0954 15122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1038 15122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1317 15122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1330 15122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1557 15122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1605 15122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1625 15122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1635 15122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1638 15122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1649 15122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1650 15122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1651 15122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1652 15122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0731 16122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0743 16122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0929 16122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0950 16122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0959 16122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1009 16122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0957 17122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0829 20122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "0914 20122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1839 26122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1853 26122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1857 26122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1902 26122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1904 26122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1907 26122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1917 26122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1932 26122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1933 26122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "1959 26122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2000 26122025": {
+      "lead_id": "",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    }
+  },
+  "issues": [
+    {
+      "id": "ISS-001",
+      "category": "tts.romanized_hindi",
+      "label": "Hindi written in Roman/Latin script instead of Devanagari",
+      "severity": "high",
+      "status": "open",
+      "prompt_section": null,
+      "first_seen": "2026-04-12T17:59:49.530249+00:00",
+      "last_seen": "2026-04-12T17:59:49.530249+00:00",
+      "frequency": {
+        "total": 97,
+        "current_prompt": 0,
+        "timestamps": [
+          "2000 06122025",
+          "2006 11122025",
+          "0622 11122025",
+          "2242 07122025",
+          "1835 11122025",
+          "1735 14122025",
+          "2234 07122025",
+          "1938 11122025",
+          "1623 13122025",
+          "8/4/2026, 3:03:37 pm",
+          "0849 11122025",
+          "8/4/2026, 3:03:36 pm",
+          "8/4/2026, 2:32:58 pm",
+          "0708 11122025",
+          "1417 13122025",
+          "1904 26122025",
+          "1038 15122025",
+          "1636 14122025",
+          "1959 26122025",
+          "0938 15122025",
+          "1446 13122025",
+          "0731 16122025",
+          "1938 06122025",
+          "1857 26122025",
+          "1651 14122025",
+          "0704 11122025",
+          "1716 06122025",
+          "2019 07122025",
+          "1946 06122025",
+          "1917 26122025",
+          "1640 13122025",
+          "1330 15122025",
+          "8/4/2026, 2:29:03 pm",
+          "8/4/2026, 2:13:42 pm",
+          "1943 07122025",
+          "1611 06122025",
+          "2122 07122025",
+          "0807 15122025",
+          "0721 11122025",
+          "1907 26122025",
+          "1744 14122025",
+          "2231 07122025",
+          "1836 14122025",
+          "1358 13122025",
+          "1628 14122025",
+          "1832 11122025",
+          "0242 06122025",
+          "1930 06122025",
+          "1415 11122025",
+          "0957 17122025",
+          "2252 07122025",
+          "1849 06122025",
+          "1824 11122025",
+          "2013 07122025",
+          "0738 15122025",
+          "1846 06122025",
+          "1809 12122025",
+          "1409 11122025",
+          "0743 16122025",
+          "1557 15122025",
+          "0706 11122025",
+          "1651 06122025",
+          "2007 07122025",
+          "2022 11122025",
+          "1948 06122025",
+          "1941 11122025",
+          "1830 06122025",
+          "1933 26122025",
+          "0222 06122025",
+          "8/4/2026, 4:00:28 pm",
+          "1826 06122025",
+          "0829 20122025",
+          "0929 16122025",
+          "1836 06122025",
+          "0914 20122025",
+          "2204 07122025",
+          "1838 06122025",
+          "1723 14122025",
+          "0841 11122025",
+          "1905 11122025",
+          "1717 14122025",
+          "0701 11122025",
+          "1622 14122025",
+          "1501 13122025",
+          "2000 26122025",
+          "2118 07122025",
+          "0717 11122025",
+          "1658 06122025",
+          "2249 07122025",
+          "1713 06122025",
+          "1934 06122025",
+          "1625 14122025",
+          "1903 13122025",
+          "2221 07122025",
+          "0233 06122025",
+          "0757 15122025",
+          "1902 26122025"
+        ]
+      },
+      "evidence": [
+        {
+          "timestamp": "8/4/2026, 2:13:42 pm",
+          "prompt_version": "unknown",
+          "excerpt": "नमस्तेuser: कापरा एक्सट्र्यूजन्सuser: इफ यू नो द डिजाइड एक्सटेंशन डायल नाउ ऑर वेट फॉर ऑपरेटर असिस्टेंसuser: थैंक यूassistant:  हाँ sir, Vikram bol raha hoon iTarang Technologies se। क्या मैं आपसे कुछ ",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        },
+        {
+          "timestamp": "8/4/2026, 2:29:03 pm",
+          "prompt_version": "unknown",
+          "excerpt": "नमस्तेuser: Helloassistant:  शुरू करने से पहले — Hindi theek rahegi ya English mein baat karein?user: नमस्कार जीassistant: शुरू करने से पहले — Hindi theek rahegi ya English mein baat karein?",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        },
+        {
+          "timestamp": "8/4/2026, 2:32:58 pm",
+          "prompt_version": "unknown",
+          "excerpt": "नमस्तेuser: नमस्तेassistant:  शुरू करने से पहले — Hindi theek rahegi ya English mein baat karein?user: हिंदी मेंassistant:  अच्छा  जी! Vikram bol raha hoon iTarang Technologies se। क्या मैं  जी से बात",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        }
+      ],
+      "proposed_fix": {
+        "before": null,
+        "after": null
+      },
+      "applied_fix": null,
+      "fix_applied_at": null,
+      "fix_prompt_hash": null,
+      "notes": []
+    },
+    {
+      "id": "ISS-002",
+      "category": "platform.english_silence",
+      "label": "English silence prompt used instead of Hindi",
+      "severity": "high",
+      "status": "open",
+      "prompt_section": null,
+      "first_seen": "2026-04-12T17:59:49.530269+00:00",
+      "last_seen": "2026-04-12T17:59:49.531087+00:00",
+      "frequency": {
+        "total": 10,
+        "current_prompt": 0,
+        "timestamps": [
+          "8/4/2026, 4:00:28 pm",
+          "9/4/2026, 12:59:59 pm",
+          "9/4/2026, 2:39:25 pm",
+          "9/4/2026, 1:22:41 pm",
+          "9/4/2026, 3:01:29 pm",
+          "8/4/2026, 2:30:32 pm",
+          "8/4/2026, 3:03:36 pm",
+          "9/4/2026, 1:29:48 pm",
+          "9/4/2026, 5:02:43 pm",
+          "8/4/2026, 3:03:37 pm"
+        ]
+      },
+      "evidence": [
+        {
+          "timestamp": "8/4/2026, 2:30:32 pm",
+          "prompt_version": "unknown",
+          "excerpt": "नमस्तेuser: I cannot pick up the call right now.user: This is my true color voice mail.user: Please leave your message after the beep.assistant:  अरे sir, समझ गया। जब भी फुर्सत मिले, वापस कॉल कर लीजिए",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        },
+        {
+          "timestamp": "8/4/2026, 3:03:36 pm",
+          "prompt_version": "unknown",
+          "excerpt": "नमस्तेassistant: Hey, are you still there",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        },
+        {
+          "timestamp": "8/4/2026, 3:03:37 pm",
+          "prompt_version": "unknown",
+          "excerpt": "नमस्तेassistant: Hey, are you still there",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        },
+        {
+          "timestamp": "8/4/2026, 2:30:32 pm",
+          "prompt_version": "unknown",
+          "excerpt": "PLATFORM_SILENCE",
+          "added_at": "2026-04-12T17:59:49.531000+00:00"
+        },
+        {
+          "timestamp": "8/4/2026, 3:03:36 pm",
+          "prompt_version": "unknown",
+          "excerpt": "PLATFORM_SILENCE",
+          "added_at": "2026-04-12T17:59:49.531000+00:00"
+        },
+        {
+          "timestamp": "8/4/2026, 3:03:37 pm",
+          "prompt_version": "unknown",
+          "excerpt": "PLATFORM_SILENCE",
+          "added_at": "2026-04-12T17:59:49.531000+00:00"
+        },
+        {
+          "timestamp": "8/4/2026, 3:03:37 pm",
+          "prompt_version": "unknown",
+          "excerpt": "PLATFORM_SILENCE",
+          "added_at": "2026-04-12T17:59:49.531000+00:00"
+        },
+        {
+          "timestamp": "8/4/2026, 4:00:28 pm",
+          "prompt_version": "unknown",
+          "excerpt": "PLATFORM_SILENCE",
+          "added_at": "2026-04-12T17:59:49.531000+00:00"
+        }
+      ],
+      "proposed_fix": {
+        "before": null,
+        "after": null
+      },
+      "applied_fix": null,
+      "fix_applied_at": null,
+      "fix_prompt_hash": null,
+      "notes": []
+    },
+    {
+      "id": "ISS-003",
+      "category": "guardrail.wrong_company",
+      "label": "Wrong company name used (Tarang Batteries instead of iTarang)",
+      "severity": "high",
+      "status": "open",
+      "prompt_section": null,
+      "first_seen": "2026-04-12T17:59:49.530287+00:00",
+      "last_seen": "2026-04-12T17:59:49.530287+00:00",
+      "frequency": {
+        "total": 109,
+        "current_prompt": 0,
+        "timestamps": [
+          "1911 06122025",
+          "0756 05122025",
+          "1351 11122025",
+          "2006 11122025",
+          "0910 15112025",
+          "0237 06122025",
+          "1412 11122025",
+          "0622 11122025",
+          "0738 21112025",
+          "0710 11122025",
+          "1442 11122025",
+          "1909 15112025",
+          "2242 07122025",
+          "1632 14122025",
+          "0008 06122025",
+          "1634 14122025",
+          "1735 14122025",
+          "2234 07122025",
+          "0111 06122025",
+          "1938 11122025",
+          "1623 13122025",
+          "0849 11122025",
+          "1326 13122025",
+          "1009 16122025",
+          "1911 15112025",
+          "1755 19112025",
+          "0645 22112025",
+          "1417 13122025",
+          "1636 14122025",
+          "1923 15112025",
+          "0938 15122025",
+          "1959 26122025",
+          "1446 13122025",
+          "1836 15112025",
+          "0730 22112025",
+          "0731 16122025",
+          "1727 19112025",
+          "1411 13122025",
+          "1744 04122025",
+          "1850 15112025",
+          "0100 06122025",
+          "1651 14122025",
+          "1908 15112025",
+          "2019 07122025",
+          "1839 26122025",
+          "0022 15112025",
+          "1927 15112025",
+          "0738 05122025",
+          "2122 07122025",
+          "0807 15122025",
+          "0637 22112025",
+          "1907 26122025",
+          "1744 14122025",
+          "1928 15112025",
+          "0927 15122025",
+          "1836 14122025",
+          "1628 14122025",
+          "1832 11122025",
+          "0242 06122025",
+          "0744 05122025",
+          "1415 11122025",
+          "0957 17122025",
+          "2252 07122025",
+          "1824 11122025",
+          "2013 07122025",
+          "0738 15122025",
+          "0757 04122025",
+          "1809 12122025",
+          "1409 11122025",
+          "0743 16122025",
+          "1905 15112025",
+          "0706 11122025",
+          "1906 15112025",
+          "2007 07122025",
+          "2022 11122025",
+          "0739 05122025",
+          "0214 06122025",
+          "0704 22112025",
+          "1933 26122025",
+          "0829 20122025",
+          "0929 16122025",
+          "2219 15112025",
+          "2204 07122025",
+          "1723 14122025",
+          "0841 11122025",
+          "1604 02122025",
+          "1849 15112025",
+          "0732 11122025",
+          "1717 14122025",
+          "0701 11122025",
+          "1724 04122025",
+          "1622 14122025",
+          "1749 14112025",
+          "1501 13122025",
+          "0741 11122025",
+          "2000 26122025",
+          "0933 28112025",
+          "0809 03122025",
+          "0727 11122025",
+          "2249 07122025",
+          "1713 06122025",
+          "1625 14122025",
+          "1620 14122025",
+          "1535 20112025",
+          "1903 13122025",
+          "2221 07122025",
+          "0233 06122025",
+          "0757 15122025",
+          "1902 26122025"
+        ]
+      },
+      "evidence": [
+        {
+          "timestamp": "1749 14112025",
+          "prompt_version": "unknown",
+          "excerpt": "Hi, I'm calling to introduce you to Tarang Batteries and our special offers for automotive businesses.",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        },
+        {
+          "timestamp": "0022 15112025",
+          "prompt_version": "unknown",
+          "excerpt": "Hi, I'm calling to introduce you to Tarang Batteries and our special offers for automotive businesses.",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        },
+        {
+          "timestamp": "0910 15112025",
+          "prompt_version": "unknown",
+          "excerpt": "Hi, I'm calling to introduce you to Tarang Batteries and our special offers for automotive businesses.",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        }
+      ],
+      "proposed_fix": {
+        "before": null,
+        "after": null
+      },
+      "applied_fix": null,
+      "fix_applied_at": null,
+      "fix_prompt_hash": null,
+      "notes": []
+    },
+    {
+      "id": "ISS-004",
+      "category": "tts.digits",
+      "label": "Numbers written as digits instead of spelled-out words",
+      "severity": "medium",
+      "status": "open",
+      "prompt_section": null,
+      "first_seen": "2026-04-12T17:59:49.530297+00:00",
+      "last_seen": "2026-04-12T17:59:49.530297+00:00",
+      "frequency": {
+        "total": 62,
+        "current_prompt": 0,
+        "timestamps": [
+          "0829 20122025",
+          "1928 15112025",
+          "1836 06122025",
+          "1938 06122025",
+          "1730 04122025",
+          "0914 20122025",
+          "2219 15112025",
+          "1838 06122025",
+          "1442 11122025",
+          "1832 11122025",
+          "1723 14122025",
+          "1604 02122025",
+          "0008 06122025",
+          "0035 06122025",
+          "1735 14122025",
+          "1905 11122025",
+          "1853 26122025",
+          "1651 14122025",
+          "0950 16122025",
+          "2252 07122025",
+          "1849 06122025",
+          "1938 11122025",
+          "1638 15122025",
+          "1717 14122025",
+          "1605 15122025",
+          "1724 04122025",
+          "1716 06122025",
+          "2013 07122025",
+          "1716 19112025",
+          "1623 13122025",
+          "2019 07122025",
+          "0743 16122025",
+          "1839 26122025",
+          "1557 15122025",
+          "0741 11122025",
+          "1917 26122025",
+          "1625 15122025",
+          "2118 07122025",
+          "2007 07122025",
+          "1009 16122025",
+          "1330 15122025",
+          "1755 19112025",
+          "1941 11122025",
+          "1713 06122025",
+          "0645 22112025",
+          "0704 22112025",
+          "2228 18112025",
+          "1635 15122025",
+          "1400 14122025",
+          "1830 06122025",
+          "2122 07122025",
+          "2122 28112025",
+          "1038 15122025",
+          "1535 20112025",
+          "1134 20112025",
+          "1923 15112025",
+          "0938 15122025",
+          "2221 07122025",
+          "0233 06122025",
+          "1907 26122025",
+          "2231 07122025",
+          "1902 26122025"
+        ]
+      },
+      "evidence": [
+        {
+          "timestamp": "1923 15112025",
+          "prompt_version": "unknown",
+          "excerpt": "बिलकुल, हमारे पास तीनपहिया ई-रिक्शा के लिए कई विकल्प उपलब्ध हैं। इनमें विभिन्न वोल्टेज और कैपेसिटी की बैटरियाँ शामिल हैं, जैसे पच्चीस, छत्तीस, और सत्ताइस किलोवोल्ट घंटे की बैटरियाँ। ये बैटरियाँ लंबी ल",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        },
+        {
+          "timestamp": "1928 15112025",
+          "prompt_version": "unknown",
+          "excerpt": "जी हां, हम आपको finance के विकल्प भी उपलब्ध कराते हैं। आप HDFC या ICICI बैंक के साथ 24 प्रतिशत वार्षिक ब्याज दर पर आसानी से बैटरी का फाइनेंस कर सकते हैं। क्या आप इस विकल्प के बारे में और जानकारी या आव",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        },
+        {
+          "timestamp": "2219 15112025",
+          "prompt_version": "unknown",
+          "excerpt": "जी हाँ, हमारे पास 51V 105AH की बैटरी उपलब्ध है, जो लगभग पाँच.३७६ किलोवॉट घंटा की क्षमता रखती है। यह बैटरी मजबूत सुरक्षा फीचर्स के साथ आती है और लंबी लाइफ के लिए डिज़ाइन की गई है। क्या आप इस मॉडल को खर",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        }
+      ],
+      "proposed_fix": {
+        "before": null,
+        "after": null
+      },
+      "applied_fix": null,
+      "fix_applied_at": null,
+      "fix_prompt_hash": null,
+      "notes": []
+    },
+    {
+      "id": "ISS-005",
+      "category": "design.long_response",
+      "label": "Agent response exceeds 60-word limit",
+      "severity": "medium",
+      "status": "open",
+      "prompt_section": null,
+      "first_seen": "2026-04-12T17:59:49.530305+00:00",
+      "last_seen": "2026-04-12T17:59:49.530305+00:00",
+      "frequency": {
+        "total": 55,
+        "current_prompt": 0,
+        "timestamps": [
+          "9/4/2026, 12:58:36 pm",
+          "8/4/2026, 4:00:28 pm",
+          "1928 15112025",
+          "0927 15122025",
+          "2000 06122025",
+          "0929 02122025",
+          "2006 11122025",
+          "1730 04122025",
+          "1727 19112025",
+          "2219 15112025",
+          "0622 11122025",
+          "0738 21112025",
+          "0710 11122025",
+          "1442 11122025",
+          "0813 03122025",
+          "1744 04122025",
+          "1832 11122025",
+          "1632 14122025",
+          "1850 15112025",
+          "1604 02122025",
+          "0008 06122025",
+          "0035 06122025",
+          "9/4/2026, 1:25:24 pm",
+          "1835 11122025",
+          "1735 14122025",
+          "0111 06122025",
+          "1651 14122025",
+          "1938 11122025",
+          "1724 04122025",
+          "2013 07122025",
+          "1623 13122025",
+          "1716 19112025",
+          "1839 26122025",
+          "9/4/2026, 1:33:03 pm",
+          "0741 11122025",
+          "0706 11122025",
+          "2118 07122025",
+          "0933 28112025",
+          "1927 15112025",
+          "2022 11122025",
+          "0809 03122025",
+          "1755 19112025",
+          "8/4/2026, 2:32:58 pm",
+          "2249 07122025",
+          "8/4/2026, 2:13:42 pm",
+          "0645 22112025",
+          "2228 18112025",
+          "1625 14122025",
+          "0940 03122025",
+          "2122 28112025",
+          "1535 20112025",
+          "1636 14122025",
+          "1923 15112025",
+          "2221 07122025",
+          "1836 15112025"
+        ]
+      },
+      "evidence": [
+        {
+          "timestamp": "8/4/2026, 2:13:42 pm",
+          "prompt_version": "unknown",
+          "excerpt": "नमस्तेuser: कापरा एक्सट्र्यूजन्सuser: इफ यू नो द डिजाइड एक्सटेंशन डायल नाउ ऑर वेट फॉर ऑपरेटर असिस्टेंसuser: थैंक यूassistant:  हाँ sir, Vikram bol raha hoon iTarang Technologies se। क्या मैं आपसे कुछ ",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        },
+        {
+          "timestamp": "8/4/2026, 2:32:58 pm",
+          "prompt_version": "unknown",
+          "excerpt": "नमस्तेuser: नमस्तेassistant:  शुरू करने से पहले — Hindi theek rahegi ya English mein baat karein?user: हिंदी मेंassistant:  अच्छा  जी! Vikram bol raha hoon iTarang Technologies se। क्या मैं  जी से बात",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        },
+        {
+          "timestamp": "8/4/2026, 4:00:28 pm",
+          "prompt_version": "unknown",
+          "excerpt": "नमस्तेuser: Your call has been forwarded to voice mail.assistant:  जी sir,user: The person you are trying to reach is not available.user: At the tone, please record your message.user: When you have fi",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        }
+      ],
+      "proposed_fix": {
+        "before": null,
+        "after": null
+      },
+      "applied_fix": null,
+      "fix_applied_at": null,
+      "fix_prompt_hash": null,
+      "notes": []
+    },
+    {
+      "id": "ISS-006",
+      "category": "design.repeated_question",
+      "label": "Same question asked consecutively",
+      "severity": "medium",
+      "status": "open",
+      "prompt_section": null,
+      "first_seen": "2026-04-12T17:59:49.530312+00:00",
+      "last_seen": "2026-04-12T17:59:49.530312+00:00",
+      "frequency": {
+        "total": 1,
+        "current_prompt": 0,
+        "timestamps": [
+          "1943 07122025"
+        ]
+      },
+      "evidence": [
+        {
+          "timestamp": "1943 07122025",
+          "prompt_version": "unknown",
+          "excerpt": "Kya aapko product details chahiye, ya phir aap ek lead add karvana chahte hain, ya koi complaint hai, ya phir aap ek visit book karna chahte hain?",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        }
+      ],
+      "proposed_fix": {
+        "before": null,
+        "after": null
+      },
+      "applied_fix": null,
+      "fix_applied_at": null,
+      "fix_prompt_hash": null,
+      "notes": []
+    },
+    {
+      "id": "ISS-007",
+      "category": "template.blank_name",
+      "label": "Blank owner name in greeting (double space before ji)",
+      "severity": "medium",
+      "status": "open",
+      "prompt_section": null,
+      "first_seen": "2026-04-12T17:59:49.530318+00:00",
+      "last_seen": "2026-04-12T17:59:49.530318+00:00",
+      "frequency": {
+        "total": 4,
+        "current_prompt": 0,
+        "timestamps": [
+          "8/4/2026, 4:00:28 pm",
+          "8/4/2026, 2:36:17 pm",
+          "8/4/2026, 2:32:58 pm",
+          "8/4/2026, 4:01:34 pm"
+        ]
+      },
+      "evidence": [
+        {
+          "timestamp": "8/4/2026, 2:32:58 pm",
+          "prompt_version": "unknown",
+          "excerpt": "नमस्तेuser: नमस्तेassistant:  शुरू करने से पहले — Hindi theek rahegi ya English mein baat karein?user: हिंदी मेंassistant:  अच्छा  जी! Vikram bol raha hoon iTarang Technologies se। क्या मैं  जी से बात",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        },
+        {
+          "timestamp": "8/4/2026, 2:36:17 pm",
+          "prompt_version": "unknown",
+          "excerpt": "नमस्तेuser: helloassistant:  शuser: अच्छी बात हैassistant:  धन्यवाद sir। क्या मैं  जी से बात कर सकता हूँ — Unique Energos Pvt. Ltd. वाले, Yamuna Nagar से?user: कितनी पास हैassistant:  Sir,",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        },
+        {
+          "timestamp": "8/4/2026, 4:00:28 pm",
+          "prompt_version": "unknown",
+          "excerpt": "नमस्तेuser: Your call has been forwarded to voice mail.assistant:  जी sir,user: The person you are trying to reach is not available.user: At the tone, please record your message.user: When you have fi",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        }
+      ],
+      "proposed_fix": {
+        "before": null,
+        "after": null
+      },
+      "applied_fix": null,
+      "fix_applied_at": null,
+      "fix_prompt_hash": null,
+      "notes": []
+    },
+    {
+      "id": "ISS-008",
+      "category": "guardrail.hallucination",
+      "label": "Hallucinated financing details (bank names, interest rates)",
+      "severity": "high",
+      "status": "open",
+      "prompt_section": null,
+      "first_seen": "2026-04-12T17:59:49.530324+00:00",
+      "last_seen": "2026-04-12T17:59:49.530324+00:00",
+      "frequency": {
+        "total": 15,
+        "current_prompt": 0,
+        "timestamps": [
+          "1928 15112025",
+          "0645 22112025",
+          "2228 18112025",
+          "0929 02122025",
+          "2122 28112025",
+          "0933 28112025",
+          "2219 15112025",
+          "1535 20112025",
+          "1716 19112025",
+          "1923 15112025",
+          "1134 20112025",
+          "1836 15112025",
+          "1604 02122025",
+          "1755 19112025",
+          "1749 14112025"
+        ]
+      },
+      "evidence": [
+        {
+          "timestamp": "1749 14112025",
+          "prompt_version": "unknown",
+          "excerpt": "बहुत अच्छा! मैं आपके पच्चीस बैटरियों का ऑर्डर दर्ज कर रहा हूँ। क्या आप चाहें तो हम HDFC या ICICI बैंक के क्रेडिट टर्म्स भी ऑफर कर सकते हैं, जिसमें ब्याज दर है केवल चालीस प्रतिशत प्रति वर्ष। क्या आप इस",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        },
+        {
+          "timestamp": "1836 15112025",
+          "prompt_version": "unknown",
+          "excerpt": "Thank you for your interest! Tarang Batteries offers high-performance lithium batteries designed for electric vehicles, including three-wheelers. Our batteries feature long cycle life, safety features",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        },
+        {
+          "timestamp": "1923 15112025",
+          "prompt_version": "unknown",
+          "excerpt": "बिलकुल, हमारे पास तीनपहिया ई-रिक्शा के लिए कई विकल्प उपलब्ध हैं। इनमें विभिन्न वोल्टेज और कैपेसिटी की बैटरियाँ शामिल हैं, जैसे पच्चीस, छत्तीस, और सत्ताइस किलोवोल्ट घंटे की बैटरियाँ। ये बैटरियाँ लंबी ल",
+          "added_at": "2026-04-12T17:59:49.530169+00:00"
+        }
+      ],
+      "proposed_fix": {
+        "before": null,
+        "after": null
+      },
+      "applied_fix": null,
+      "fix_applied_at": null,
+      "fix_prompt_hash": null,
+      "notes": []
+    },
+    {
+      "id": "ISS-009",
+      "category": "flow.lang_check_repeated",
+      "label": "Language preference question asked multiple times",
+      "severity": "medium",
+      "status": "open",
+      "prompt_section": null,
+      "first_seen": "2026-04-12T17:59:49.530328+00:00",
+      "last_seen": "2026-04-12T17:59:49.530328+00:00",
+      "frequency": {
+        "total": 1,
+        "current_prompt": 0,
+        "timestamps": [
+          "8/4/2026, 2:29:03 pm"
+        ]
+      },
+      "evidence": [],
+      "proposed_fix": {
+        "before": null,
+        "after": null
+      },
+      "applied_fix": null,
+      "fix_applied_at": null,
+      "fix_prompt_hash": null,
+      "notes": []
+    },
+    {
+      "id": "ISS-010",
+      "category": "flow.bare_opener",
+      "label": "Bare greeting without identity or purpose",
+      "severity": "high",
+      "status": "open",
+      "prompt_section": null,
+      "first_seen": "2026-04-12T17:59:49.531067+00:00",
+      "last_seen": "2026-04-12T17:59:49.531067+00:00",
+      "frequency": {
+        "total": 1,
+        "current_prompt": 0,
+        "timestamps": [
+          "8/4/2026, 2:09:56 pm"
+        ]
+      },
+      "evidence": [
+        {
+          "timestamp": "8/4/2026, 2:09:56 pm",
+          "prompt_version": "unknown",
+          "excerpt": "GREETING_ONLY",
+          "added_at": "2026-04-12T17:59:49.531000+00:00"
+        }
+      ],
+      "proposed_fix": {
+        "before": null,
+        "after": null
+      },
+      "applied_fix": null,
+      "fix_applied_at": null,
+      "fix_prompt_hash": null,
+      "notes": []
+    },
+    {
+      "id": "ISS-011",
+      "category": "flow.no_product_teaser",
+      "label": "Discovery started without product teaser",
+      "severity": "medium",
+      "status": "open",
+      "prompt_section": null,
+      "first_seen": "2026-04-12T17:59:49.531095+00:00",
+      "last_seen": "2026-04-12T17:59:49.531095+00:00",
+      "frequency": {
+        "total": 16,
+        "current_prompt": 0,
+        "timestamps": [
+          "0910 15112025",
+          "1713 06122025",
+          "2007 07122025",
+          "2204 07122025",
+          "2221 07122025",
+          "2231 07122025",
+          "0622 11122025",
+          "1832 11122025",
+          "1938 11122025",
+          "1632 14122025",
+          "1636 14122025",
+          "1651 14122025",
+          "1717 14122025",
+          "0757 15122025",
+          "0807 15122025",
+          "0829 20122025"
+        ]
+      },
+      "evidence": [
+        {
+          "timestamp": "0910 15112025",
+          "prompt_version": "unknown",
+          "excerpt": "OTHER → DISCOVERY",
+          "added_at": "2026-04-12T17:59:49.531000+00:00"
+        },
+        {
+          "timestamp": "1713 06122025",
+          "prompt_version": "unknown",
+          "excerpt": "OTHER → DISCOVERY → OTHER → OTHER → OTHER → OTHER → DISCOVERY → OTHER → OTHER → OTHER",
+          "added_at": "2026-04-12T17:59:49.531000+00:00"
+        },
+        {
+          "timestamp": "2007 07122025",
+          "prompt_version": "unknown",
+          "excerpt": "OTHER → OTHER → OTHER → OTHER → OTHER → DISCOVERY",
+          "added_at": "2026-04-12T17:59:49.531000+00:00"
+        },
+        {
+          "timestamp": "2204 07122025",
+          "prompt_version": "unknown",
+          "excerpt": "OTHER → VISIT_OFFER → OTHER → OTHER → DISCOVERY",
+          "added_at": "2026-04-12T17:59:49.531000+00:00"
+        },
+        {
+          "timestamp": "2221 07122025",
+          "prompt_version": "unknown",
+          "excerpt": "OTHER → OTHER → OTHER → OTHER → DISCOVERY → PRODUCT_PRESENT",
+          "added_at": "2026-04-12T17:59:49.531000+00:00"
+        }
+      ],
+      "proposed_fix": {
+        "before": null,
+        "after": null
+      },
+      "applied_fix": null,
+      "fix_applied_at": null,
+      "fix_prompt_hash": null,
+      "notes": []
+    }
+  ]
+}
