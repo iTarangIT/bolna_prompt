@@ -77,13 +77,14 @@ def load_xlsx_dir(input_dir: str) -> list[dict]:
     return records
 
 
-def combine(gs_path: str, xlsx_path: str) -> dict:
+def combine(gs_path: str, xlsx_path: str, el_path: str = "") -> dict:
     gs = json.load(open(gs_path)) if gs_path and os.path.exists(gs_path) else []
     xl = json.load(open(xlsx_path)) if xlsx_path and os.path.exists(xlsx_path) else []
+    el = json.load(open(el_path)) if el_path and os.path.exists(el_path) else []
     seen = set()
     combined = []
     dupes = 0
-    for rec in gs + xl:
+    for rec in gs + xl + el:
         key = (rec.get("timestamp", ""), rec.get("transcript", "")[:120])
         if key in seen:
             dupes += 1
@@ -92,7 +93,13 @@ def combine(gs_path: str, xlsx_path: str) -> dict:
         combined.append(rec)
     return {
         "records": combined,
-        "stats": {"gs": len(gs), "xlsx": len(xl), "dupes": dupes, "total": len(combined)},
+        "stats": {
+            "gs": len(gs),
+            "xlsx": len(xl),
+            "elevenlabs": len(el),
+            "dupes": dupes,
+            "total": len(combined),
+        },
     }
 
 
@@ -104,6 +111,7 @@ def main():
     p.add_argument("--input-dir")
     p.add_argument("--gs-json")
     p.add_argument("--xlsx-json")
+    p.add_argument("--el-json", help="Optional path to ElevenLabs records JSON")
     p.add_argument("--output", required=True)
     args = p.parse_args()
 
@@ -116,7 +124,7 @@ def main():
         json.dump(records, open(args.output, "w"), ensure_ascii=False, indent=2)
         print(json.dumps({"count": len(records), "output": args.output}))
     elif args.source == "combine":
-        out = combine(args.gs_json, args.xlsx_json)
+        out = combine(args.gs_json, args.xlsx_json, args.el_json or "")
         json.dump(out["records"], open(args.output, "w"), ensure_ascii=False, indent=2)
         print(json.dumps({"output": args.output, **out["stats"]}))
 
