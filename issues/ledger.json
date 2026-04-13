@@ -3,8 +3,8 @@
     "version": 1,
     "agent": "vikram",
     "created_at": "2026-04-12T17:59:49.527370+00:00",
-    "last_updated": "2026-04-12T19:27:34.716550+00:00",
-    "prompt_hash": "5dc03a8d304ff6271656e983a62e679bdbf3a32d445c3dc21e79a682e614ad45"
+    "last_updated": "2026-04-13T03:03:29.213533+00:00",
+    "prompt_hash": "616d85dc5e856c19e4fa4560a1f5d76b6da1eb88b12d3957c0566c54f163e052"
   },
   "processed_transcripts": {
     "8/4/2026, 2:09:56 pm": {
@@ -1101,6 +1101,271 @@
       "lead_id": "",
       "prompt_version": "unknown",
       "analyzed_at": "2026-04-12T17:59:49.531103+00:00"
+    },
+    "2026-04-12 17:28:21": {
+      "lead_id": "1f16497b-69d8-41e0-82c6-a03f12668260",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-12 17:43:05": {
+      "lead_id": "d0af8d08-5a74-4ef8-8e9a-de76aa3f59bf",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-12 17:42:27": {
+      "lead_id": "c5d451f0-79ef-4826-bf56-f97097d4434b",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-12 17:20:13": {
+      "lead_id": "5065984f-a18a-4557-a94e-423f84269d20",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-12 17:27:52": {
+      "lead_id": "d2180fb9-2827-4e77-adec-314c807bbbe1",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-12 17:34:47": {
+      "lead_id": "0737db6e-946b-417d-b45f-7fba5b0f79c1",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-12 17:34:12": {
+      "lead_id": "d48c58a5-94f7-478b-ab3c-e011673896f2",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-12 17:27:15": {
+      "lead_id": "a9c202cd-2251-4529-bce1-86b80a1162e3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-12 17:26:35": {
+      "lead_id": "375b7442-a5d1-41fd-bd7b-7e0a8f862bcd",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-12 17:22:22": {
+      "lead_id": "524d0c3d-9b85-4323-b9c6-d1085828bc6c",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-12 17:21:13": {
+      "lead_id": "69825f19-75cf-499e-b105-597608b219d5",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-12 17:19:21": {
+      "lead_id": "277c5539-1f40-43df-8d72-d3878d3b589c",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-12 17:13:08": {
+      "lead_id": "032bb2aa-09aa-48b7-abd7-a5262710269b",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-12 17:19:04": {
+      "lead_id": "e08d0cd6-ae6a-47ca-afcc-1d3a75483cc9",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-11 10:09:34": {
+      "lead_id": "630f00ce-744b-4ab8-8d07-bd03f1a58ac0",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-11 10:20:18": {
+      "lead_id": "f1739bc5-4a11-421d-b0ef-8a377da5a430",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-11 10:16:09": {
+      "lead_id": "71507c32-53fa-4512-b6ac-3bd91d69211b",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-11 10:14:56": {
+      "lead_id": "746a167e-4523-495b-8bbd-73d7704b793d",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-09 13:32:46": {
+      "lead_id": "cba969aa-0ee6-4396-b667-ec80e06c591b",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-09 11:31:34": {
+      "lead_id": "f7729ae4-10fc-4229-bf12-fc99b17ef047",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-09 09:30:08": {
+      "lead_id": "cef23c88-88c6-473b-9287-d59574c5a4c1",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-09 09:28:36": {
+      "lead_id": "ce2424b8-e370-4b45-b8f8-55cf942a1373",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-09 08:29:40": {
+      "lead_id": "2dc0d7be-8a7f-46cd-974d-645837c79604",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-09 08:38:14": {
+      "lead_id": "c80b7d2c-23a6-41e6-b97e-056d357fd4f7",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-09 08:32:46": {
+      "lead_id": "1c1abd39-a50f-484e-8d4e-6c5a4813f6fb",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-04-09 08:32:34": {
+      "lead_id": "f7165550-f2bb-4ca0-a3a8-d08ec448c34d",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-03-21 09:06:08": {
+      "lead_id": "9288005a-7520-4d20-9ca3-a97ae01e4025",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-03-21 09:03:23": {
+      "lead_id": "da8d459f-3537-40a2-9444-2d01b8337f64",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-03-21 07:37:25": {
+      "lead_id": "5d138af9-bacb-49ad-ac21-8299a6258824",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-03-14 09:36:56": {
+      "lead_id": "85a9295a-69ca-4a61-8940-5ce17286058e",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-03-13 14:50:24": {
+      "lead_id": "ef68b8e5-829f-4c6d-b34f-aad3fbf27620",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-03-13 13:19:49": {
+      "lead_id": "da84879c-f49b-4a81-aa82-6172b2783411",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-03-13 12:35:32": {
+      "lead_id": "50b8cc92-300d-4978-a026-3e819e391b00",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-03-13 11:31:54": {
+      "lead_id": "2fd1e90f-d540-4daf-8b2d-6adde313b8e4",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-03-13 10:46:07": {
+      "lead_id": "bc56c036-1617-4497-81b3-6c9350094327",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-03-13 10:34:28": {
+      "lead_id": "e243ae48-3a20-4a03-bc19-225959fe01a5",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-03-13 09:28:09": {
+      "lead_id": "318ca5b6-c254-44b6-9da9-ef45cbb9de9c",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-03-13 07:24:32": {
+      "lead_id": "8fd4d957-be10-414b-8940-e845f63641f5",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-02-19 08:00:42": {
+      "lead_id": "a46c7b8e-7239-4d8f-9b51-3d13a630573b",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-01-31 16:50:58": {
+      "lead_id": "f4e08665-0f95-4cb4-8fbf-ea69aecbe572",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-01-31 16:44:49": {
+      "lead_id": "780153c4-4f6b-4175-998a-90865a505f62",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-01-31 08:51:44": {
+      "lead_id": "e81945cb-ea65-407c-bdcd-12c737dbc5f3",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-01-29 10:41:17": {
+      "lead_id": "5e7c72c9-7582-4e24-ada1-bd78282a74df",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-01-29 07:32:17": {
+      "lead_id": "185dce47-b01c-4adc-ba71-263d6fb2f5d6",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-01-29 07:12:18": {
+      "lead_id": "9a5b3941-75be-4193-b3f5-bd5a00282123",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-01-31 08:45:52": {
+      "lead_id": "8fee6721-9230-4425-9d6f-cf4f3f8c8551",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-01-31 08:40:25": {
+      "lead_id": "8b73a6b7-aaaf-4ab6-87a0-063179a9ba01",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-01-31 08:35:00": {
+      "lead_id": "ae422c10-5c71-4130-ae05-391a4f912c3c",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-01-31 08:24:48": {
+      "lead_id": "d75d5d40-7f42-453e-9656-607081c7eceb",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-01-04 10:39:08": {
+      "lead_id": "898d4e68-affb-4ac8-a512-10ee7aa70b41",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-01-03 09:44:15": {
+      "lead_id": "ed8726d3-be97-4cef-9039-e215bb6e6f63",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2026-01-03 01:46:24": {
+      "lead_id": "f8ddd916-202e-4843-8728-6ce897494052",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
+    },
+    "2025-12-30 16:39:51": {
+      "lead_id": "c381ade3-2479-440a-aaaa-58389eec2483",
+      "prompt_version": "unknown",
+      "analyzed_at": "2026-04-13T02:31:09.887440+00:00"
     }
   },
   "issues": [
@@ -1253,9 +1518,9 @@
       "status": "open",
       "prompt_section": null,
       "first_seen": "2026-04-12T17:59:49.530269+00:00",
-      "last_seen": "2026-04-12T17:59:49.531087+00:00",
+      "last_seen": "2026-04-13T02:37:30.343973+00:00",
       "frequency": {
-        "total": 10,
+        "total": 21,
         "current_prompt": 0,
         "timestamps": [
           "8/4/2026, 4:00:28 pm",
@@ -1267,57 +1532,80 @@
           "8/4/2026, 3:03:36 pm",
           "9/4/2026, 1:29:48 pm",
           "9/4/2026, 5:02:43 pm",
-          "8/4/2026, 3:03:37 pm"
+          "8/4/2026, 3:03:37 pm",
+          "2026-04-12 17:28:21",
+          "2026-04-12 17:42:27",
+          "2026-04-12 17:13:08",
+          "2026-04-09 11:31:34",
+          "2026-04-09 09:30:08",
+          "2026-04-09 08:38:14",
+          "2026-03-21 09:06:08",
+          "2026-03-21 09:03:23",
+          "2026-03-21 07:37:25",
+          "2026-03-14 09:36:56",
+          "2026-01-29 07:12:18"
         ]
       },
       "evidence": [
         {
-          "timestamp": "8/4/2026, 2:30:32 pm",
+          "timestamp": "2026-04-12 17:28:21",
           "prompt_version": "unknown",
-          "excerpt": "नमस्तेuser: I cannot pick up the call right now.user: This is my true color voice mail.user: Please leave your message after the beep.assistant:  अरे sir, समझ गया। जब भी फुर्सत मिले, वापस कॉल कर लीजिए",
-          "added_at": "2026-04-12T17:59:49.530169+00:00"
+          "excerpt": "Hey, are you still there",
+          "added_at": "2026-04-13T02:33:42.201680+00:00"
         },
         {
-          "timestamp": "8/4/2026, 3:03:36 pm",
+          "timestamp": "2026-04-12 17:42:27",
           "prompt_version": "unknown",
-          "excerpt": "नमस्तेassistant: Hey, are you still there",
-          "added_at": "2026-04-12T17:59:49.530169+00:00"
+          "excerpt": "Hey, are you still there",
+          "added_at": "2026-04-13T02:33:42.201680+00:00"
         },
         {
-          "timestamp": "8/4/2026, 3:03:37 pm",
+          "timestamp": "2026-04-12 17:13:08",
           "prompt_version": "unknown",
-          "excerpt": "नमस्तेassistant: Hey, are you still there",
-          "added_at": "2026-04-12T17:59:49.530169+00:00"
+          "excerpt": "Hey, are you still there",
+          "added_at": "2026-04-13T02:33:42.201680+00:00"
         },
         {
-          "timestamp": "8/4/2026, 2:30:32 pm",
+          "timestamp": "2026-04-09 11:31:34",
           "prompt_version": "unknown",
-          "excerpt": "PLATFORM_SILENCE",
-          "added_at": "2026-04-12T17:59:49.531000+00:00"
+          "excerpt": "Hey, are you still there",
+          "added_at": "2026-04-13T02:33:42.201680+00:00"
         },
         {
-          "timestamp": "8/4/2026, 3:03:36 pm",
+          "timestamp": "2026-04-09 09:30:08",
           "prompt_version": "unknown",
-          "excerpt": "PLATFORM_SILENCE",
-          "added_at": "2026-04-12T17:59:49.531000+00:00"
+          "excerpt": "Hey, are you still there",
+          "added_at": "2026-04-13T02:33:42.201680+00:00"
         },
         {
-          "timestamp": "8/4/2026, 3:03:37 pm",
+          "timestamp": "2026-04-12 17:28:21",
           "prompt_version": "unknown",
-          "excerpt": "PLATFORM_SILENCE",
-          "added_at": "2026-04-12T17:59:49.531000+00:00"
+          "excerpt": "Hey, are you still there",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
         },
         {
-          "timestamp": "8/4/2026, 3:03:37 pm",
+          "timestamp": "2026-04-12 17:42:27",
           "prompt_version": "unknown",
-          "excerpt": "PLATFORM_SILENCE",
-          "added_at": "2026-04-12T17:59:49.531000+00:00"
+          "excerpt": "Hey, are you still there",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
         },
         {
-          "timestamp": "8/4/2026, 4:00:28 pm",
+          "timestamp": "2026-04-12 17:13:08",
           "prompt_version": "unknown",
-          "excerpt": "PLATFORM_SILENCE",
-          "added_at": "2026-04-12T17:59:49.531000+00:00"
+          "excerpt": "Hey, are you still there",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
+        },
+        {
+          "timestamp": "2026-04-09 11:31:34",
+          "prompt_version": "unknown",
+          "excerpt": "Hey, are you still there",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
+        },
+        {
+          "timestamp": "2026-04-09 09:30:08",
+          "prompt_version": "unknown",
+          "excerpt": "Hey, are you still there",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
         }
       ],
       "proposed_fix": {
@@ -1334,7 +1622,7 @@
       "category": "guardrail.wrong_company",
       "label": "Wrong company name used (Tarang Batteries instead of iTarang)",
       "severity": "high",
-      "status": "open",
+      "status": "fixed",
       "prompt_section": null,
       "first_seen": "2026-04-12T17:59:49.530287+00:00",
       "last_seen": "2026-04-12T17:59:49.530287+00:00",
@@ -1478,8 +1766,8 @@
         "after": null
       },
       "applied_fix": null,
-      "fix_applied_at": null,
-      "fix_prompt_hash": null,
+      "fix_applied_at": "2026-04-13T03:03:05.444153+00:00",
+      "fix_prompt_hash": "d35b5c842e5f2adde66de5d9a8c17ce646ac2ee90d6c054bdedd9a9fd2c4990b",
       "notes": []
     },
     {
@@ -1487,12 +1775,12 @@
       "category": "tts.digits",
       "label": "Numbers written as digits instead of spelled-out words",
       "severity": "medium",
-      "status": "open",
+      "status": "fixed",
       "prompt_section": null,
       "first_seen": "2026-04-12T17:59:49.530297+00:00",
-      "last_seen": "2026-04-12T17:59:49.530297+00:00",
+      "last_seen": "2026-04-13T02:37:30.344012+00:00",
       "frequency": {
-        "total": 62,
+        "total": 65,
         "current_prompt": 0,
         "timestamps": [
           "0829 20122025",
@@ -1556,7 +1844,10 @@
           "0233 06122025",
           "1907 26122025",
           "2231 07122025",
-          "1902 26122025"
+          "1902 26122025",
+          "2026-04-12 17:13:08",
+          "2026-03-13 13:19:49",
+          "2026-01-31 08:40:25"
         ]
       },
       "evidence": [
@@ -1577,6 +1868,42 @@
           "prompt_version": "unknown",
           "excerpt": "जी हाँ, हमारे पास 51V 105AH की बैटरी उपलब्ध है, जो लगभग पाँच.३७६ किलोवॉट घंटा की क्षमता रखती है। यह बैटरी मजबूत सुरक्षा फीचर्स के साथ आती है और लंबी लाइफ के लिए डिज़ाइन की गई है। क्या आप इस मॉडल को खर",
           "added_at": "2026-04-12T17:59:49.530169+00:00"
+        },
+        {
+          "timestamp": "2026-04-12 17:13:08",
+          "prompt_version": "unknown",
+          "excerpt": "मैं iTarang Technologies से बोल रहा हूँ — हमारे पास 51.2V से 64V तक की lithium-ion batteries हैं।",
+          "added_at": "2026-04-13T02:33:42.201680+00:00"
+        },
+        {
+          "timestamp": "2026-03-13 13:19:49",
+          "prompt_version": "unknown",
+          "excerpt": "Am I speaking with the owner of the phone number ending with 7709? And could you please confi",
+          "added_at": "2026-04-13T02:33:42.201680+00:00"
+        },
+        {
+          "timestamp": "2026-01-31 08:40:25",
+          "prompt_version": "unknown",
+          "excerpt": "precall123(to_number=\"+916305500274\")",
+          "added_at": "2026-04-13T02:33:42.201680+00:00"
+        },
+        {
+          "timestamp": "2026-04-12 17:13:08",
+          "prompt_version": "unknown",
+          "excerpt": "मैं iTarang Technologies से बोल रहा हूँ — हमारे पास 51.2V से 64V तक की lithium-ion batteries हैं।",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
+        },
+        {
+          "timestamp": "2026-03-13 13:19:49",
+          "prompt_version": "unknown",
+          "excerpt": "Am I speaking with the owner of the phone number ending with 7709? And could you please confi",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
+        },
+        {
+          "timestamp": "2026-01-31 08:40:25",
+          "prompt_version": "unknown",
+          "excerpt": "precall123(to_number=\"+916305500274\")",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
         }
       ],
       "proposed_fix": {
@@ -1584,8 +1911,8 @@
         "after": null
       },
       "applied_fix": null,
-      "fix_applied_at": null,
-      "fix_prompt_hash": null,
+      "fix_applied_at": "2026-04-13T03:03:05.444153+00:00",
+      "fix_prompt_hash": "d35b5c842e5f2adde66de5d9a8c17ce646ac2ee90d6c054bdedd9a9fd2c4990b",
       "notes": []
     },
     {
@@ -1596,9 +1923,9 @@
       "status": "open",
       "prompt_section": null,
       "first_seen": "2026-04-12T17:59:49.530305+00:00",
-      "last_seen": "2026-04-12T17:59:49.530305+00:00",
+      "last_seen": "2026-04-13T02:37:30.344023+00:00",
       "frequency": {
-        "total": 55,
+        "total": 57,
         "current_prompt": 0,
         "timestamps": [
           "9/4/2026, 12:58:36 pm",
@@ -1655,7 +1982,9 @@
           "1636 14122025",
           "1923 15112025",
           "2221 07122025",
-          "1836 15112025"
+          "1836 15112025",
+          "2026-01-31 16:50:58",
+          "2026-01-31 16:44:49"
         ]
       },
       "evidence": [
@@ -1676,6 +2005,18 @@
           "prompt_version": "unknown",
           "excerpt": "नमस्तेuser: Your call has been forwarded to voice mail.assistant:  जी sir,user: The person you are trying to reach is not available.user: At the tone, please record your message.user: When you have fi",
           "added_at": "2026-04-12T17:59:49.530169+00:00"
+        },
+        {
+          "timestamp": "2026-01-31 16:50:58",
+          "prompt_version": "unknown",
+          "excerpt": "मैं Vikram हूँ, iTarang Technologies से। हम Trontek के official selling partner हैं और lithium-ion batteries का एक wide range प्रदान करते हैं। हमारा मुख्यालय गुरुग्राम, हरियाणा में है। हम आपकी busines",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
+        },
+        {
+          "timestamp": "2026-01-31 16:44:49",
+          "prompt_version": "unknown",
+          "excerpt": "Great! We offer a wide range of lithium-ion batteries from fifty-one point two volts to sixty-four volts. All our batteries are manufactured by our OEM partner Trontek, and we provide comprehensive se",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
         }
       ],
       "proposed_fix": {
@@ -1692,15 +2033,19 @@
       "category": "design.repeated_question",
       "label": "Same question asked consecutively",
       "severity": "medium",
-      "status": "open",
+      "status": "fixed",
       "prompt_section": null,
       "first_seen": "2026-04-12T17:59:49.530312+00:00",
-      "last_seen": "2026-04-12T17:59:49.530312+00:00",
+      "last_seen": "2026-04-13T02:37:30.344005+00:00",
       "frequency": {
-        "total": 1,
+        "total": 5,
         "current_prompt": 0,
         "timestamps": [
-          "1943 07122025"
+          "1943 07122025",
+          "2026-04-12 17:27:52",
+          "2026-04-12 17:27:15",
+          "2026-04-12 17:26:35",
+          "2026-01-31 16:50:58"
         ]
       },
       "evidence": [
@@ -1709,6 +2054,30 @@
           "prompt_version": "unknown",
           "excerpt": "Kya aapko product details chahiye, ya phir aap ek lead add karvana chahte hain, ya koi complaint hai, ya phir aap ek visit book karna chahte hain?",
           "added_at": "2026-04-12T17:59:49.530169+00:00"
+        },
+        {
+          "timestamp": "2026-04-12 17:27:52",
+          "prompt_version": "unknown",
+          "excerpt": "Hello sir! This is Vikram from iTarang Technologies — we supply lithium-ion batteries and e-rickshaws to dealers across India. Do you have two minutes to talk?",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
+        },
+        {
+          "timestamp": "2026-04-12 17:27:15",
+          "prompt_version": "unknown",
+          "excerpt": "Hello sir! This is Vikram from iTarang Technologies — we supply lithium-ion batteries and e-rickshaws to dealers across India. Do you have two minutes to talk?",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
+        },
+        {
+          "timestamp": "2026-04-12 17:26:35",
+          "prompt_version": "unknown",
+          "excerpt": "Hello sir! This is Vikram from iTarang Technologies — we supply lithium-ion batteries and e-rickshaws to dealers across India. Do you have two minutes to talk?",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
+        },
+        {
+          "timestamp": "2026-01-31 16:50:58",
+          "prompt_version": "unknown",
+          "excerpt": "That's a significant order! Let me check the best bulk pricing and delivery options for you. Please hold on.",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
         }
       ],
       "proposed_fix": {
@@ -1716,8 +2085,8 @@
         "after": null
       },
       "applied_fix": null,
-      "fix_applied_at": null,
-      "fix_prompt_hash": null,
+      "fix_applied_at": "2026-04-13T03:03:05.444153+00:00",
+      "fix_prompt_hash": "d35b5c842e5f2adde66de5d9a8c17ce646ac2ee90d6c054bdedd9a9fd2c4990b",
       "notes": []
     },
     {
@@ -1725,18 +2094,19 @@
       "category": "template.blank_name",
       "label": "Blank owner name in greeting (double space before ji)",
       "severity": "medium",
-      "status": "open",
+      "status": "fixed",
       "prompt_section": null,
       "first_seen": "2026-04-12T17:59:49.530318+00:00",
-      "last_seen": "2026-04-12T17:59:49.530318+00:00",
+      "last_seen": "2026-04-13T02:37:30.344019+00:00",
       "frequency": {
-        "total": 4,
+        "total": 5,
         "current_prompt": 0,
         "timestamps": [
           "8/4/2026, 4:00:28 pm",
           "8/4/2026, 2:36:17 pm",
           "8/4/2026, 2:32:58 pm",
-          "8/4/2026, 4:01:34 pm"
+          "8/4/2026, 4:01:34 pm",
+          "2026-04-11 10:09:34"
         ]
       },
       "evidence": [
@@ -1757,6 +2127,12 @@
           "prompt_version": "unknown",
           "excerpt": "नमस्तेuser: Your call has been forwarded to voice mail.assistant:  जी sir,user: The person you are trying to reach is not available.user: At the tone, please record your message.user: When you have fi",
           "added_at": "2026-04-12T17:59:49.530169+00:00"
+        },
+        {
+          "timestamp": "2026-04-11 10:09:34",
+          "prompt_version": "unknown",
+          "excerpt": "बिल्कुल sir, Hinglish में बात करते हैं। क्या मैं जी से बात कर सकता हूँ — वाले, से?",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
         }
       ],
       "proposed_fix": {
@@ -1764,8 +2140,8 @@
         "after": null
       },
       "applied_fix": null,
-      "fix_applied_at": null,
-      "fix_prompt_hash": null,
+      "fix_applied_at": "2026-04-13T03:03:05.444153+00:00",
+      "fix_prompt_hash": "d35b5c842e5f2adde66de5d9a8c17ce646ac2ee90d6c054bdedd9a9fd2c4990b",
       "notes": []
     },
     {
@@ -1956,6 +2332,126 @@
       "applied_fix": null,
       "fix_applied_at": null,
       "fix_prompt_hash": null,
+      "notes": []
+    },
+    {
+      "id": "ISS-012",
+      "category": "platform.truncated",
+      "label": "Empty or truncated agent response",
+      "severity": "low",
+      "status": "open",
+      "prompt_section": null,
+      "first_seen": "2026-04-13T02:37:30.343988+00:00",
+      "last_seen": "2026-04-13T02:37:30.343988+00:00",
+      "frequency": {
+        "total": 4,
+        "current_prompt": 0,
+        "timestamps": [
+          "2026-04-12 17:28:21",
+          "2026-04-12 17:43:05",
+          "2026-04-12 17:13:08",
+          "2026-01-29 10:41:17"
+        ]
+      },
+      "evidence": [
+        {
+          "timestamp": "2026-04-12 17:28:21",
+          "prompt_version": "unknown",
+          "excerpt": "'mam'",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
+        },
+        {
+          "timestamp": "2026-04-12 17:43:05",
+          "prompt_version": "unknown",
+          "excerpt": "'Si'",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
+        },
+        {
+          "timestamp": "2026-04-12 17:13:08",
+          "prompt_version": "unknown",
+          "excerpt": "'मा'",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
+        },
+        {
+          "timestamp": "2026-01-29 10:41:17",
+          "prompt_version": "unknown",
+          "excerpt": "'He'",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
+        }
+      ],
+      "proposed_fix": {
+        "before": null,
+        "after": null
+      },
+      "applied_fix": null,
+      "fix_applied_at": null,
+      "fix_prompt_hash": null,
+      "notes": []
+    },
+    {
+      "id": "ISS-013",
+      "category": "flow.post_voicemail",
+      "label": "Agent continued talking after voicemail detected",
+      "severity": "medium",
+      "status": "open",
+      "prompt_section": null,
+      "first_seen": "2026-04-13T02:37:30.344029+00:00",
+      "last_seen": "2026-04-13T02:37:30.344029+00:00",
+      "frequency": {
+        "total": 1,
+        "current_prompt": 0,
+        "timestamps": [
+          "2026-01-04 10:39:08"
+        ]
+      },
+      "evidence": [
+        {
+          "timestamp": "2026-01-04 10:39:08",
+          "prompt_version": "unknown",
+          "excerpt": "",
+          "added_at": "2026-04-13T02:37:30.343821+00:00"
+        }
+      ],
+      "proposed_fix": {
+        "before": null,
+        "after": null
+      },
+      "applied_fix": null,
+      "fix_applied_at": null,
+      "fix_prompt_hash": null,
+      "notes": []
+    },
+    {
+      "id": "ISS-014",
+      "category": "design.gender_assumption",
+      "label": "Agent assumes male dealer (sir) even when female",
+      "severity": "high",
+      "status": "fixed",
+      "prompt_section": null,
+      "first_seen": "2026-04-13T03:03:15.864891+00:00",
+      "last_seen": "2026-04-13T03:03:15.864891+00:00",
+      "frequency": {
+        "total": 1,
+        "current_prompt": 1,
+        "timestamps": [
+          "2026-04-12 17:28:21"
+        ]
+      },
+      "evidence": [
+        {
+          "timestamp": "",
+          "prompt_version": "current",
+          "excerpt": "mam mam हूँ i am not sir i am mam → agent still uses sir afterward",
+          "added_at": "2026-04-13T03:03:15.864725+00:00"
+        }
+      ],
+      "proposed_fix": {
+        "before": null,
+        "after": null
+      },
+      "applied_fix": null,
+      "fix_applied_at": "2026-04-13T03:03:29.213214+00:00",
+      "fix_prompt_hash": "d35b5c842e5f2adde66de5d9a8c17ce646ac2ee90d6c054bdedd9a9fd2c4990b",
       "notes": []
     }
   ]
